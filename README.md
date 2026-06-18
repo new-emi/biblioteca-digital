@@ -44,7 +44,7 @@ Sistema de linha de comando (CLI) em Python para gerenciar documentos digitais d
 
 ```bash
 # Clone o repositório
-git clone https://github.com/<seu-usuario>/biblioteca-digital.git
+git clone https://github.com/new-emi/biblioteca-digital.git
 cd biblioteca-digital
 ```
 
